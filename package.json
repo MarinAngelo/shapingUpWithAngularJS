@@ -1,0 +1,11 @@
+{
+  "name": "shapingUpWithAngularJS",
+  "version": "1.0.0",
+  "description": "Angular Kurs von Codeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marinus Klap",
+  "license": "ISC"
+}
